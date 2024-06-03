@@ -1,0 +1,74 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.header{
+    height: 60px;
+    width: 1303px;
+}
+
+.header img{
+    padding-left: 600px;
+    padding-top: 10px;
+}
+
+
+#fa{
+    padding-left: 500px;
+}
+
+#in{
+    padding-left: 10px;
+}
+
+#menu{
+    max-width: 1303px;
+    min-height: 50px;
+    background: black;
+}
+
+#menu ul{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    
+}
+#menu a{
+    color: rgb(255, 255, 255);
+    display: block;
+    padding: 20px;
+    text-decoration: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+#menu a:hover{
+    background: rgb(217, 223, 127);
+}
+
+section{
+    background: rgb(236, 236, 77);
+    width: 400px;
+    margin-left: 450px;
+    margin-top: 30px;
+    height: 600px;
+}
+
+section img{
+    width: 200px;
+    padding-left: 95px;
+    margin-top: 10px;
+}
+
+footer img{
+    width: 1303px;
+}
+
+.foo{
+    background: gray;
+    margin-top: 30px;
+}
+
+.gmail{
+    padding-left: 650px;
+    width: 24px;
+}
